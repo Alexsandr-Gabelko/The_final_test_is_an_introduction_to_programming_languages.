@@ -7,4 +7,22 @@
 // [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
 
-Console.WriteLine("Hello, World!");
+string[] ArrayInput(int quantityElements)
+{
+    string[] array = new string[quantityElements];
+    for (int i = 0; i < quantityElements; i++)
+    {
+     Console.WriteLine("Введите элементов массива = " + i);
+     array[i] = Console.ReadLine()!;   
+    }
+    return array;
+}
+
+
+Console.Clear();
+Console.Write("Введите колличество элементов массива - ");
+int quantityElements = int.Parse(Console.ReadLine()!);
+Console.WriteLine("Колличество элементов массива = " + quantityElements);
+ArrayInput(quantityElements);
+
+
