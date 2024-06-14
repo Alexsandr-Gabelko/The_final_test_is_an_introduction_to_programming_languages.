@@ -1,0 +1,30 @@
+C:\Users\Alexandr\Desktop\ДЗ Знакомство с языками программирования\Итоговая контрольная работа\obj\Debug\net8.0\Итоговая контрольная работа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandr\Desktop\ДЗ Знакомство с языками программирования\Итоговая контрольная работа\obj\Debug\net8.0\Итоговая контрольная работа.AssemblyInfoInputs.cache
+C:\Users\Alexandr\Desktop\ДЗ Знакомство с языками программирования\Итоговая контрольная работа\obj\Debug\net8.0\Итоговая контрольная работа.AssemblyInfo.cs
+C:\Users\Alexandr\Desktop\ДЗ Знакомство с языками программирования\Итоговая контрольная работа\obj\Debug\net8.0\Итоговая контрольная работа.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Desktop\ДЗ Знакомство с языками программирования\Итоговая контрольная работа\obj\Debug\net8.0\Итоговая контрольная работа.sourcelink.json
+C:\Users\Alexandr\Desktop\ДЗ Знакомство с языками программирования\Итоговая контрольная работа\bin\Debug\net8.0\Итоговая контрольная работа.exe
+C:\Users\Alexandr\Desktop\ДЗ Знакомство с языками программирования\Итоговая контрольная работа\bin\Debug\net8.0\Итоговая контрольная работа.deps.json
+C:\Users\Alexandr\Desktop\ДЗ Знакомство с языками программирования\Итоговая контрольная работа\bin\Debug\net8.0\Итоговая контрольная работа.runtimeconfig.json
+C:\Users\Alexandr\Desktop\ДЗ Знакомство с языками программирования\Итоговая контрольная работа\bin\Debug\net8.0\Итоговая контрольная работа.dll
+C:\Users\Alexandr\Desktop\ДЗ Знакомство с языками программирования\Итоговая контрольная работа\bin\Debug\net8.0\Итоговая контрольная работа.pdb
+C:\Users\Alexandr\Desktop\ДЗ Знакомство с языками программирования\Итоговая контрольная работа\obj\Debug\net8.0\Итоговая контрольная работа.dll
+C:\Users\Alexandr\Desktop\ДЗ Знакомство с языками программирования\Итоговая контрольная работа\obj\Debug\net8.0\refint\Итоговая контрольная работа.dll
+C:\Users\Alexandr\Desktop\ДЗ Знакомство с языками программирования\Итоговая контрольная работа\obj\Debug\net8.0\Итоговая контрольная работа.pdb
+C:\Users\Alexandr\Desktop\ДЗ Знакомство с языками программирования\Итоговая контрольная работа\obj\Debug\net8.0\Итоговая контрольная работа.genruntimeconfig.cache
+C:\Users\Alexandr\Desktop\ДЗ Знакомство с языками программирования\Итоговая контрольная работа\obj\Debug\net8.0\ref\Итоговая контрольная работа.dll
+C:\Users\Boss\Desktop\C#\Итоговая контрольная работа\bin\Debug\net8.0\Итоговая контрольная работа.exe
+C:\Users\Boss\Desktop\C#\Итоговая контрольная работа\bin\Debug\net8.0\Итоговая контрольная работа.deps.json
+C:\Users\Boss\Desktop\C#\Итоговая контрольная работа\bin\Debug\net8.0\Итоговая контрольная работа.runtimeconfig.json
+C:\Users\Boss\Desktop\C#\Итоговая контрольная работа\bin\Debug\net8.0\Итоговая контрольная работа.dll
+C:\Users\Boss\Desktop\C#\Итоговая контрольная работа\bin\Debug\net8.0\Итоговая контрольная работа.pdb
+C:\Users\Boss\Desktop\C#\Итоговая контрольная работа\obj\Debug\net8.0\Итоговая контрольная работа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boss\Desktop\C#\Итоговая контрольная работа\obj\Debug\net8.0\Итоговая контрольная работа.AssemblyInfoInputs.cache
+C:\Users\Boss\Desktop\C#\Итоговая контрольная работа\obj\Debug\net8.0\Итоговая контрольная работа.AssemblyInfo.cs
+C:\Users\Boss\Desktop\C#\Итоговая контрольная работа\obj\Debug\net8.0\Итоговая контрольная работа.csproj.CoreCompileInputs.cache
+C:\Users\Boss\Desktop\C#\Итоговая контрольная работа\obj\Debug\net8.0\Итоговая контрольная работа.sourcelink.json
+C:\Users\Boss\Desktop\C#\Итоговая контрольная работа\obj\Debug\net8.0\Итоговая контрольная работа.dll
+C:\Users\Boss\Desktop\C#\Итоговая контрольная работа\obj\Debug\net8.0\refint\Итоговая контрольная работа.dll
+C:\Users\Boss\Desktop\C#\Итоговая контрольная работа\obj\Debug\net8.0\Итоговая контрольная работа.pdb
+C:\Users\Boss\Desktop\C#\Итоговая контрольная работа\obj\Debug\net8.0\Итоговая контрольная работа.genruntimeconfig.cache
+C:\Users\Boss\Desktop\C#\Итоговая контрольная работа\obj\Debug\net8.0\ref\Итоговая контрольная работа.dll
