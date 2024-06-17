@@ -9,7 +9,15 @@
 
 
 
-void NewArray(string[] array, int quantityElements, int elements)
+void PrintResult (string[] array, string[] newArray)
+{
+    System.Console.WriteLine("Задgанный массив");
+    Console.WriteLine("[{0}]", string.Join(", ", array));
+    System.Console.WriteLine("Новый массива ");
+    Console.WriteLine("[{0}]", string.Join(", ", newArray));
+}
+
+string[] NewArray(string[] array, int quantityElements, int elements)
 {
    string[] newArray = new string[elements];
 
@@ -22,14 +30,7 @@ for (int i = 0; i < quantityElements; i++)
         j++ ;
     }
 } 
-System.Console.WriteLine("Задgанный массив");
-Console.WriteLine("[{0}]", string.Join(", ", array));
-System.Console.WriteLine("Новый массива ");
-Console.WriteLine("[{0}]", string.Join(", ", newArray));
-
-// foreach(string i in newArray) 
-// Console.Write("{0} ",i);
-
+return newArray;
 }
 
 int AmountOfElements(string[] array)
@@ -57,8 +58,6 @@ string[] ArrayInput(int quantityElements)
     return array;
 }
 
-
-
 Console.Clear();
 Console.Write("Введите колличество элементов массива - ");
 int quantityElements = int.Parse(Console.ReadLine()!);
@@ -66,7 +65,9 @@ Console.WriteLine("Колличество элементов массива = " 
 string[] array = ArrayInput(quantityElements);
 int elements = AmountOfElements(array);
 System.Console.WriteLine("Колличество элементов нового массива = " + elements);
-NewArray(array, quantityElements, elements);
+string[] newArray = {};
+newArray = NewArray(array, quantityElements, elements);
+PrintResult (array, newArray);
 
 
 
