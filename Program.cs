@@ -11,7 +11,7 @@
 
 void PrintResult (string[] array, string[] newArray)
 {
-    System.Console.WriteLine("Задgанный массив");
+    System.Console.WriteLine("Заданный массив");
     Console.WriteLine("[{0}]", string.Join(", ", array));
     System.Console.WriteLine("Новый массива ");
     Console.WriteLine("[{0}]", string.Join(", ", newArray));
@@ -35,14 +35,14 @@ return newArray;
 
 int AmountOfElements(string[] array)
 {
-    int col = 0;
+    int numberElements = 0;
     foreach (string i in array)
 {
     System.Console.WriteLine(i);
     if (i.Length <= 3) 
-    col ++;
+    numberElements ++;
 }
-    return col;
+    return numberElements;
 }
 
 string[] ArrayInput(int quantityElements)
